@@ -8,6 +8,7 @@ public class Participants {
         
         greet("Adrian", "Yungel1");
         greet("Mikel", "Midoiaga");
+	greet("Mario", "maritoo0");
     }
 
     public static void greet(String name, String githubUser) {
